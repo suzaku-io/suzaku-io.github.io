@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+repository: suzaku-io/suzaku-io.github.io
+title: SUZAKU
+description: Framework for frontend web applications
+google_analytics: UA-74405486-2
