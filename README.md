@@ -1,6 +1,6 @@
-## Coming in Q1 2017
+## Coming in Q3 2017
 
-Suzaku is currently under early development and will be released in Q1 2017.
+Suzaku is currently under early development and will be released in Q3 2017.
 
 ## Libraries
 
